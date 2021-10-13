@@ -21,3 +21,6 @@ E.g., you can use python virtual envs with [Anaconda](https://docs.anaconda.com/
 - SB3 Zoo with trained agents [SB3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo)
 - Mixed autonomy traffic [FLOW](https://flow-project.github.io/)
 - Healthcare-Robotics [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym)
+- Bioinfomatics x RL [AlphaFold](https://github.com/deepmind/alphafold)
+- DeepMind projects [github](https://github.com/deepmind)
+- DeepMind with JAX [article](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research)
